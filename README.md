@@ -1,8 +1,11 @@
 # demopresentation
 
-Create migartions with: 
+1.Create migartions with: 
 
 
-python manage.py makemigrations
 
-python manage.py migrate
+a) python manage.py makemigrations
+
+b) python manage.py migrate
+
+2. To runserever: python manage.py runserver
