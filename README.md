@@ -1,7 +1,7 @@
 # demopresentation
 
-Create migartions
-with: python manage.py makemigartions
+Create migartions with: 
 
 
-      python manage.py migrate
+python manage.py makemigartions
+python manage.py migrate
